@@ -118,3 +118,5 @@ I had to do some digging on this. WMI filters can be used to apply Group Policy 
 Only 1 Event shows up. I look through the event for the answer. I see the script attacker ran and the answer to the question. Win32_NTLogEvent
 
 ![image](https://github.com/user-attachments/assets/599ee3ce-1f10-4c34-80a2-70d3c1ed80b2)
+
+End of Lab
